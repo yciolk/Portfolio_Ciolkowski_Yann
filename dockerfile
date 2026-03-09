@@ -28,4 +28,4 @@ ENV NODE_ENV=production
 #CMD [ "node", ".output/server/index.mjs" ]]
 #CMD [ "npm", "start" ]
 #CMD ["node", "server.js"]
-CMD [ "npm", "serve" ]
+CMD [ "npm", "run serve" ]
