@@ -85,7 +85,7 @@ export default {
 				<!-- Header logos -->
 				<div>
 					<router-link to="/" class="text-secondary-dark dark:text-primary-light font-general-bold text-lg hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-300">
-						Ciolkowski Yann
+						Bonjour
 					</router-link>
 				</div>
 
