@@ -21,7 +21,7 @@ services:
     environment:
       # see https://ghost.org/docs/config/#configuration-options
       container__name: ${NAME}
-      WATCHPACK_POLLING=true
+      WATCHPACK_POLLING: true
 
 networks:
   web:
